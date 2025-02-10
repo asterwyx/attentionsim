@@ -5,6 +5,7 @@
 #include <QTimer>
 #include <QApplication>
 #include <qpa/qplatformnativeinterface.h>
+#include <QDebug>
 
 MainWindow::MainWindow()
     : QMainWindow()
